@@ -7,7 +7,6 @@ int main() {
     int answer = kpm * 10 ;
     cout << answer << endl;
  
- 
     return 0;
 }
 
