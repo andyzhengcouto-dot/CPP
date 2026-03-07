@@ -1,1 +1,1 @@
-This is my Cpp repository where i store all my files from Ottawa Stem Club coding class
+This is my Cpp repository where I store all my files from Ottawa Stem Club coding class
