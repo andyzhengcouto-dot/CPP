@@ -1,20 +1,23 @@
 #include <bits/stdc++.h>
 using namespace std;
  
-int main() {
-    int y;
+int main() 
+{
+    unsigned int y = 0;
+    unsigned int m = 0;
     
     cout << "Insert youngest below:" << endl;
     
     cin >> y;
-    
-    int m = y + 5;
-    int o = m + 5;
 
+
+    cout << "Insert middle below:" << endl;
+    cin >> m;
+      
     
     
-    cout << "Youngest Child:" << y << endl;
-    cout << "Middle Child:" << m << endl;
+    unsigned int o = m + (m-y);
+    
     cout << "Oldest Child:" << o << endl;
  
  
