@@ -3,8 +3,12 @@ using namespace std;
 
 int main()
 {
-    int x = 10;
-    int y = 2;
+{
+    int x;
+    int y;
+
+    cin >> y;
+    cin >> x;
     int answer = x / y ;
     cout << answer << endl;
  
