@@ -7,7 +7,7 @@ Current updates:
 
 Latest Update:
 -   Andy's Projects Update! Updated outputs and duplicates deleted!
-    Idkwhattonamethis REMOVED, Sitting BUnny UPDATED
+    Idkwhattonamethis REMOVED, Sitting BUnny UPDATED, Idk UPDATED.
 
 
 Updates in the working:
