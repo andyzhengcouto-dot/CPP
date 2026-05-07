@@ -9,7 +9,7 @@ int main()
     cin >> y;
     cin >> x;
     int answer = x * y ;
-    cout << answer << endl;
+    cout << " Multiplication Output (x*y) = " << answer << endl;
  
  
     return 0;

@@ -3,9 +3,14 @@ using namespace std;
  
 int main() 
 {
-    int var = 19.7;
-    
+    int float_var;
+    int var;
+   
+    cin >> var;
+
     cout << var / 10 << endl;
+
+    cin >> float_var;
 
     float float_var = 2.5;
     cout << "Ceil: " << ceil(float_var) << endl;
