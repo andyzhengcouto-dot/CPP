@@ -11,4 +11,4 @@ Latest Update: May 1 2026 7:15 PM
 
 
 Updates in the working:
-- MORE SOON!
+- Fundamentals Update! Estimated release: 6:30
