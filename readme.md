@@ -12,3 +12,6 @@ Latest Update: May 1 2026 7:15 PM
 
 Updates in the working:
 - Fundamentals Update! Estimated release: 6:30
+
+All Code is allowed to be used/copied UNLESS said so below:
+-None so far! All allowed
