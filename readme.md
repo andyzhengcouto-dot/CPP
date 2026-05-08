@@ -11,7 +11,7 @@ Latest Update: May 7 2026 6:30 PM
 
 
 Updates in the working:
-- More Soon!
+- Organization Update Pt.2! Estimated Release: 6:30
 
 All Code is allowed to be used/copied UNLESS said so below:
 - None so far! All allowed
