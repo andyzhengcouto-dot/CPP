@@ -15,4 +15,4 @@ Updates in the working:
 - PYTHON UPDATE!!! Estimated Release Unknown!
 
 All Code is allowed to be used/copied UNLESS said so below:
-- None so far! All allowed
+- All Dmoj Problems (sorry)
