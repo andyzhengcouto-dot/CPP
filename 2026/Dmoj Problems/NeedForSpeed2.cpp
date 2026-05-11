@@ -6,7 +6,7 @@ int main() {
     double Gonolez = 75;
     double kpm = 75 / 60.0;
     double answer = kpm * 10;
-    cout << answer << endl;
+    cout << 'The answer is' << answer << endl;
 
      
     return 0;

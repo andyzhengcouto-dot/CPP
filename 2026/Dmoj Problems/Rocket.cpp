@@ -2,6 +2,8 @@
 using namespace std;
  
 int main() {
+    // Recomend reading the comments. latest veruib
+    
     // Question a:  If his flight was straight up and down, what was his mean speed, to the nearest kilometre per hour, over the course of the whole journey?
     double distance = 105.9; // Distance in Km
     double time = (10 * 60 + 17) / 3600.0; // 10 mins and 17 senconds in hours

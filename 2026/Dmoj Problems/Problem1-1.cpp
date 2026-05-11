@@ -7,7 +7,7 @@ int main()
     
     cin >> youngest >> middle;  
     oldest = middle + (middle-youngest); 
-    cout << oldest << endl;
+    cout << 'the oldest is: ' <<  oldest << endl;
  
     return 0;
 }

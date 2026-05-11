@@ -6,13 +6,11 @@ Current updates:
 -   Andy's Projects Update! Updated outputs and duplicates deleted! May 1 2026 7:15 PM
 -   Fundamentals Update pt.2! -Updated outputs and inputs for ALL projects! May 7 6:30 PM
 
-Latest Update: May 8 2026 6:30 PM
-- Organization Update Pt.2! Projects Organized for better use + NEW FOLDER ADDED! Unlisted! For all the projects that arent fit for any of the folders! ALSO template output reduced for easier use!
-
+Latest Update: May 11 2026 6:00 PM
+- DMOJ problems update! -All projects updated and if outdated, moved to unlisted in the not updated section. If you want to use them they are allowed to be copied!
 
 Updates in the working:
-- DMOJ Update! Estimated Release 6:00 PM (Delayed To 6:10)
 - PYTHON UPDATE!!! Estimated Release Unknown!
 
 All Code is allowed to be used/copied UNLESS said so below:
-- All Dmoj Problems (sorry)
+- All Dmoj Problems (sorry) but not the ones in the not updated section

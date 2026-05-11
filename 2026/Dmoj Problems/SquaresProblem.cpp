@@ -3,7 +3,8 @@ using namespace std;
  
 int main() 
 {
-
+  // Latest Version Recommend reading the DMOJ problem though
+  
   double number;
   
   cin >> number;
