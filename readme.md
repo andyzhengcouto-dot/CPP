@@ -5,6 +5,7 @@ Current updates:
 -   Fundamentals Update! -Updated Inputs! May 1 2026 6:45 PM
 -   Andy's Projects Update! Updated outputs and duplicates deleted! May 1 2026 7:15 PM
 -   Fundamentals Update pt.2! -Updated outputs and inputs for ALL projects! May 7 6:30 PM
+-   DMOJ problems update! -All projects updated and if outdated, moved to unlisted in the not updated section. If you want to use them they are allowed to be copied!
 
 Latest Update: May 11 2026 6:00 PM
 - DMOJ problems update! -All projects updated and if outdated, moved to unlisted in the not updated section. If you want to use them they are allowed to be copied!
