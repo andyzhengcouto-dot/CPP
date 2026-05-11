@@ -11,7 +11,7 @@ Latest Update: May 8 2026 6:30 PM
 
 
 Updates in the working:
-- DMOJ Uodate! Estimated Release 6:00 PM
+- DMOJ Uodate! Estimated Release 6:00 PM (Delayed To 6:30)
 
 All Code is allowed to be used/copied UNLESS said so below:
 - None so far! All allowed
