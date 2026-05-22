@@ -4,10 +4,10 @@ using namespace std;
 int main() 
 {
     char my_char = 'a';
-    cout << int(my_char) << endl;
+    cout << "Your letter has a value of: "<< int(my_char) << endl;
  
-    int char_num = 21;
-    cout << char(char_num) << endl;
+    int char_num = 33;
+    cout << "Your number has a value of: "<<  char(char_num) << endl;
     
     return 0;
 }

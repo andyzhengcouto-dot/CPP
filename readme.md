@@ -10,6 +10,9 @@ Current updates:
 Latest Update: May 11 2026 6:00 PM
 - DMOJ problems update! -All projects updated and if outdated, moved to unlisted in the not updated section. If you want to use them they are allowed to be copied!
 
+Small Additions: 
+- ASCII addition.(Search up ASCII to use it). My_char is for characters and Char_num is for numbers!
+
 Updates in the working:
 - PYTHON UPDATE!!! Estimated Release Unknown!
 
