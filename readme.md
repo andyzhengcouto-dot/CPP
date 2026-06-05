@@ -15,7 +15,6 @@ Small Additions:
 
 Updates in the working:
 - PYTHON UPDATE!!! Estimated Release Unknown!
+- Square root and Power UPDATE!!! Estimated release: 7:00Pm
 
 All Code is allowed to be used/copied UNLESS said so below:
-- All Dmoj Problems (sorry) but not the ones in the not updated section
-Sorry, no updetes this week :(
